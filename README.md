@@ -3,7 +3,7 @@
 <div align="center">  
   
 # Do LLMs Really Struggle at NL-FOL Translation? Revealing their Strengths via a Novel Benchmarking Strategy   
-[![Paper](https://img.shields.io/badge/Paper-AAAI%202026-orange)](https://ebooks.iospress.nl/doi/10.3233/FAIA251021)
+[![Paper](https://img.shields.io/badge/Paper-AAAI%202026-orange)](https://ojs.aaai.org/index.php/AAAI/article/view/40258/44219)
 [![arXiv](https://img.shields.io/badge/Extended%20version-arXiv-red)](https://arxiv.org/pdf/2511.11816)
 
  
